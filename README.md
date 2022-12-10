@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js libraries.
 - 👯 I’m looking to collaborate on open source codes.
 - 🤔 I’m looking for help with internship/junior roles
-- 📫 How to reach me: `Linkedin--->` [Judith Amegbe](https://gh.linkedin.com/in/judith-amegbe)<br>
+- 📫 How to reach me: <br>
+                       `Linkedin--->` [Judith Amegbe](https://gh.linkedin.com/in/judith-amegbe)<br>
                        `Twitter --->` [@judy_seyram](https://twitter.com/judy_seyram)<br>
                        `E-mail --->` judyseyram@gmail.com
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I love a lot of food and dancing Kizomba
+- ⚡ Fun fact: I love a lot of food and dancing Kizomba.
 
