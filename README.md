@@ -14,5 +14,5 @@ Here are some ideas to get you started:
                        `Twitter --->` [@judy_seyram](https://twitter.com/judy_seyram)<br>
                        `E-mail --->` judyseyram@gmail.com
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I love a lot of :food: and :dancing: Kizomba.
+- ⚡ Fun fact: I love a lot of 🥘 and 💃 Kizomba.
 
