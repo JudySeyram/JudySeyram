@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on perfecting my skills in Javascript and Node.js.
-- 🌱 I’m currently learning Node.js libraries.
+- 🔭 I’m working on perfecting my skills in Javascript and Node.js.
+- 🌱 I’m currently learning C programming, python, SQL,and technical writing.
 - 👯 I’m looking to collaborate on open source codes.
 - 🤔 I’m looking for help with internship/junior roles
 - 📫 How to reach me: <br>
